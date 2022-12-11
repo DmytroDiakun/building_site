@@ -1,0 +1,28 @@
+.app {
+
+    /*height: 2000px;
+    background-color: grey;*/
+}
+
+.main-content {
+    margin-left: auto;
+    margin-right: auto;
+
+    width: 1140px;
+}
+
+.div1 {
+    height: 500px;
+}
+
+.div3 {
+    height: 500px;
+
+    background-color: white;
+
+    border-radius: 0 0 25px 25px;
+}
+
+.div4 {
+    height: 500px;
+}
